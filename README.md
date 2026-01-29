@@ -5,8 +5,8 @@ This is a repository of code for analysis and generating the figures for my PhD 
 ## How to run:
 ### Installation:
 
-Clone this repo, or download the whole folder from Zenodo
-
+Clone this repo, and download the data folder from Zenodo:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18422663.svg)](https://doi.org/10.5281/zenodo.18422663)
 ```
 conda env create -f environment.yml
 conda activate thesis_env

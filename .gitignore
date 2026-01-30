@@ -5,6 +5,7 @@ __pycache__/
 
 data/
 data.zip
+to_delete/
 
 # C extensions
 *.so

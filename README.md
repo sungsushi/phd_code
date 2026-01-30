@@ -5,14 +5,16 @@ This is a repository of code for analysis and generating the figures for my PhD 
 ## How to run:
 ### Installation:
 
-Clone this repo, and download the data folder from Zenodo:
+1. Clone this repo, and download the data folder from Zenodo:
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18422663.svg)](https://doi.org/10.5281/zenodo.18422663)
+
+2. Create the conda environment:
 ```
 conda env create -f environment.yml
 conda activate thesis_env
 ```
-- Download the data folder from [here] and add to this directory. 
-- Then run Jupyter notebooks to do analysis and generate figures into the ```figures``` folder. 
+3. Then run Jupyter notebooks to do analysis and generate figures into the ```figures``` folder. 
 
 
 
